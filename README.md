@@ -1,2 +1,2 @@
 # Tonality
-A music bot, 24/7 radio, music event creator, recorder, and so much more!
+So far in my journey of open source, I have yet to find a proper tool that manages my music, podcasts, and other audio. I would like said software to automatically find and edit the metadata of the audio-files, create genres and playlists based off of my tracks, but also give me the flexibility to create and manage my playlists elegantly. The closest I have found to do this is the [Lollypop player](https://github.com/hamonikr/lollypop), although it has its gimmicks, hence my decision to 'reinvent the wheel' :)
